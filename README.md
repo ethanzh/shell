@@ -14,4 +14,5 @@
 
 ## System Configuration
 `uname` - get name of operating system (macOS is Darwin)
+
 `neofetch` - display basic system info and splash screen
