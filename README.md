@@ -12,6 +12,8 @@
 ## Networking
 `ufw allow 5000/tcp` - allow connections on a given port
 
+`lsof -i :5000` - find which process is running on a given port
+
 ## System Configuration
 `uname` - get name of operating system (macOS is Darwin)
 
