@@ -1,5 +1,7 @@
 # Useful shell commands 
 
+Note: Some of these programs are not built-in, and some are platform-dependent
+
 ## Package Management
 `pacman -Syu` - update all packages on Arch
 
