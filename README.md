@@ -1,4 +1,4 @@
-# Useful shell commands 
+# Useful shell commands
 
 Note: Some of these programs are not built-in, and some are platform-dependent
 
@@ -20,3 +20,6 @@ Note: Some of these programs are not built-in, and some are platform-dependent
 `uname` - get name of operating system (macOS is Darwin)
 
 `neofetch` - display basic system info and splash screen
+
+## Misc
+`convert -size 32x32 xc:white white.png` - create a blank image file from command line
