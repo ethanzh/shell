@@ -34,4 +34,4 @@ Note: Some of these programs are not built-in, and some are platform-dependent
 `convert -size 32x32 xc:white white.png` - create a blank image file from command line
 
 ## Misc.
-`tldr <command` - simplified man page with examples
+`tldr <command>` - simplified man page with examples
