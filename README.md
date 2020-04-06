@@ -35,3 +35,5 @@ Note: Some of these programs are not built-in, and some are platform-dependent
 
 ## Misc.
 `tldr <command>` - simplified man page with examples
+
+`pbcopy/pbpaste` - interact with clipboard from terminal
