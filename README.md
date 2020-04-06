@@ -14,9 +14,10 @@ Note: Some of these programs are not built-in, and some are platform-dependent
 ## Window Management
 
 ### Tmux
-
 `tmux new -s <name>` - create new named tmux session
+
 `tmux a -t <name>` - attach to named session
+
 `tmux ls` - list all tmux sessions
 
 ## Networking
