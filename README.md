@@ -20,6 +20,11 @@ Note: Some of these programs are not built-in, and some are platform-dependent
 
 `tmux ls` - list all tmux sessions
 
+## Text Editing
+
+### Vim
+`vim + <file>` - open file with cursor at the bottom of file
+
 ## Networking
 `ufw allow 5000/tcp` - allow connections on a given port
 
